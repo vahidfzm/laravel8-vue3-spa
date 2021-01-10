@@ -1,7 +1,9 @@
 # Laravel8 Vue3 Single Page Application
 
 <p align="center">
-<img src="https://i.imgur.com/3cdk4LL.png" border="1">
+<kbd>
+<img src="https://i.imgur.com/3cdk4LL.png" >
+</kbd>
 </p>
 
 ## Packages
