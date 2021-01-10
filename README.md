@@ -1,7 +1,7 @@
 # Laravel8 Vue3 Single Page Application
 
 <p align="center">
-<img src="https://i.imgur.com/3cdk4LL.png">
+<img src="https://i.imgur.com/3cdk4LL.png" border="1">
 </p>
 
 ## Packages
@@ -22,7 +22,13 @@ Create .env file and update the database connection info.
 ```bash
 cp .env.example .env
 ```
-
+Install dependencies:
+```bash
+composer install
+```
+```bash
+npm install
+```
 Run these commands
 ```bash
 php artisan key:generate
