@@ -1,5 +1,9 @@
 # Laravel8 Vue3 Single Page Application
 
+<p align="center">
+<img src="https://i.imgur.com/3cdk4LL.png">
+</p>
+
 ## Packages
 
 - **[Laravel 8](https://github.com/laravel/laravel)**
@@ -37,3 +41,5 @@ php artisan db:seed
 ```bash
 php artisan serve
 ```
+
+
